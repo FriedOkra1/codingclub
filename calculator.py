@@ -9,3 +9,6 @@ a = float(input("Type in the value of 'a' to be multiplied to the number below "
 b = float(input("Type in the value of 'b' to be multiplied to the number above "))
 c = round(a*b, 2)
 print(f"{c:,}")
+
+p = float(input("Type in the value of 'p' to be added to the number below ")
+q = float(input("Type in the value of 'q' to be added to the number above ")          
