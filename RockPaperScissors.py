@@ -18,6 +18,6 @@ while(1):
             print("Its a tie!")
         )
         else : 
-            print("You lose")
-    
+            print("You lose!")
+            
 
